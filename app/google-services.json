@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114366039188",
+    "firebase_url": "https://ta-assignment-b16f5-default-rtdb.firebaseio.com",
+    "project_id": "ta-assignment-b16f5",
+    "storage_bucket": "ta-assignment-b16f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114366039188:android:48b258432461c3313c2081",
+        "android_client_info": {
+          "package_name": "com.com.akshaykumar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114366039188-3m6bv8d7eerocg85aj0n5i8pqb5ahclo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjOAO8JCwFyYJdbSK8aC-cv-cCk_5_I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114366039188-3m6bv8d7eerocg85aj0n5i8pqb5ahclo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
