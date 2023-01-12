@@ -1,7 +1,7 @@
 # Assignment-1 TA
 
 
-  
+  .APK File : https://github.com/akshay8560/Assignment1_TA/blob/master/app-debug.apk
   ## Screenshots
 <table>
 <tr>
