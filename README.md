@@ -1,4 +1,4 @@
-# Assignment-1 TA🤖
+# Assignment-1 TA
 
 
   
